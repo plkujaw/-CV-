@@ -22,7 +22,7 @@ In my previous roles it was crucial to look at projects from clients' point of v
 ## Education
 
 #### Makers Academy (Jan - May 2020)
-London, United Kingdom
+London, United Kingdom</br>
 Software Development Boot Camp
 
 - OOP, TDD, MVC
