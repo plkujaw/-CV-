@@ -30,42 +30,43 @@ Software Development Boot Camp
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine </br></br>
 
-#### Poznan Higher School of Logistics (2011 - 2012)
+#### Poznan Higher School of Logistics (2011 - 2012)</br>
 Poznan, Poland
 - Postgraduate Certificate: Logistics
 (Considered comparable to British Postgraduate Diploma standard)</br></br>
 
-#### University of Technology named after Tadeusz Kosciuszko (2006 - 2011)
+#### University of Technology named after Tadeusz Kosciuszko (2006 - 2011)</br>
 Cracow, Poland
 - Master of Science: Transport Management and Logistics
 (Considered comparable to British Master’s Degree standard)</br></br>
 
-#### Complex of Electronic and Information Technology Schools (2001 - 2006)
+#### Complex of Electronic and Information Technology Schools (2001 - 2006)</br>
 Sosnowiec, Poland
 - High School Diploma: Computer Systems and Networks
 (considered comparable to BTEC Level 3 / Subsidiary Diploma / 90-Credit Diploma standard)</br></br>
 
 ### Courses and certifications
 
-Jul 2018
+Jul 2018</br>
 London, United Kingdom
 - Certification: Pakedge Certified Network Administrator</br></br>
 
-Mar 2018
+Mar 2018</br>
 Control4 EMEA HQ – York, United Kingdom
 - Certification: Control4 Automation Programmer</br></br>
 
-Jan - Mar 2017 
+Jan - Mar 2017</br>
 Uxbridge College – London, United Kingdom
 - Professional Course: Smart Home Installation
 
 ## Experience
 
-Lewis Light & Sound (Sep 2018 - Feb 2020)
+Lewis Light & Sound (Sep 2018 - Feb 2020)</br>
 Smart Home Engineer
 - Programming and integration of residential home automation, audio visual, network and lighting control systems
 
 ## Hobbies and Interests
+
 - Music: Exploring new music and expanding my own vinyl records collection
 - Photography: My documentary photos have been featured on the main polish news website
 - Reading: *"A reader lives a thousand lives."* - George R. R. Martin
