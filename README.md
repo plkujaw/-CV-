@@ -25,10 +25,10 @@ In my previous roles it was crucial to look at projects from clients' point of v
 London, United Kingdom</br>
 Software Development Boot Camp
 
-- OOP, TDD, MVC
 - Agile, Software Craftsmanship, Teamwork
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine </br></br>
+- OOP, TDD, MVC
+- Ruby, JavaScript, PostgreSQL
+- RSpec, Jasmine, Capybara</br></br>
 
 #### Poznan Higher School of Logistics (2011 - 2012)</br>
 Poznan, Poland
@@ -86,7 +86,10 @@ Service Coordinator
 
 ## Hobbies and Interests
 
-- Music: Exploring new music and expanding my own vinyl records collection
-- Photography: My documentary photos have been featured on the main polish news website
-- Reading: *"A reader lives a thousand lives."* - George R. R. Martin
-- Travel: Hikes, road trips and camping (in 2018 I spent two weeks on a road trip around Mainland Britain, in 2019 a week around the most of Ireland)
+- Music: Exploring new music and expanding vinyl records [collection](https://www.discogs.com/user/plkujaw/collection)
+- Travel: Hiking, road tripping and camping (in 2018 spent two weeks on a road trip around Mainland Britain)
+- Photography: Photos from road trip have been [featured](https://www.hireacamera.com/en-gb/blog/case-studies/customer-case-study-visiting-the-four-corners-of-the-uk-with-the-fujifilm-xe2-xf18-135mm/) on Hireacamera.com’s blog
+- Reading: "A reader lives a thousand lives." – George R. R. Martin
+
+
+
