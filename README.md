@@ -7,7 +7,7 @@
 </p>
 </br>
 
-# [Kuba Jawor](https://www.linkedin.com/in/kubajawor)
+<a href="https://www.linkedin.com/in/kubajawor" target="_blank">Kuba Jawor</a>
 
 ## Background
 
