@@ -7,7 +7,7 @@
 </p>
 </br>
 
-# Kuba Jawor [![LinkedIn](/images/linkedin.png "LinkedIn")](https://www.linkedin.com/in/kubajawor)
+# Kuba Jawor [![LinkedIn](/linkedin24.png "LinkedIn")](https://www.linkedin.com/in/kubajawor)
 
 ## Background
 
