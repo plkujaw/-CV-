@@ -7,11 +7,11 @@
 </p>
 </br>
 
-<a href="https://www.linkedin.com/in/kubajawor" target="_blank">Kuba Jawor</a>
+# Kuba Jawor [![LinkedIn](/images/linkedin.png "LinkedIn")](https://www.linkedin.com/in/kubajawor)
 
 ## Background
 
-In 2019 I have decided to change my career. I wanted a job that would allow me to make a real difference to people’s lives, which would make me feel that I deliver something more than just a financial value, that with my work I make a positive impact. I believe that it is achievable through technology more than anything else. Because my recent roles were focused on or around technology, and I have always been keen on it I wanted to combine it all. That was why and how I found and joined renowned Software Development Boot Camp – [Makers Academy](https://makers.tech).
+In 2019 I have decided to change my career. I wanted a job that would allow me to make a real difference to people’s lives, which would make me feel that I deliver something more than just a financial value, that with my work I make a positive impact. I believe that it is achievable through technology more than anything else. Because my recent roles were focused on or around technology, and I have always been keen on it I wanted to combine it all. That was why and how I found and joined renowned software development bootcamp – [Makers Academy](https://makers.tech).
 
 ## Skills
 
