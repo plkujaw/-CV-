@@ -1,12 +1,13 @@
 <p align="center">
- <a href="#background">Background</a> #
+<a href="#background">Background</a> #
 <a href="#skills">Skills</a> #
 <a href="#education">Education</a> #
 <a href="#experience">Experience</a> #
 <a href="#hobbies-and-interests">Hobbies and Interests</a>
 </p>
+</br>
 
-# Kuba Jawor
+# [Kuba Jawor](https://www.linkedin.com/in/kubajawor)
 
 ## Background
 
@@ -91,10 +92,10 @@ Service Coordinator
 - Travel: Hiking, road tripping and camping (in 2018 spent two weeks on a road trip around Mainland Britain)
 - Photography: Photos from road trip have been [featured](https://www.hireacamera.com/en-gb/blog/case-studies/customer-case-study-visiting-the-four-corners-of-the-uk-with-the-fujifilm-xe2-xf18-135mm/) on Hireacamera.com’s blog
 - Reading: "A reader lives a thousand lives." – George R. R. Martin
-
-
+</br>
+</br>
 <p align="center">
- <a href="#background">Background</a> #
+<a href="#background">Background</a> #
 <a href="#skills">Skills</a> #
 <a href="#education">Education</a> #
 <a href="#experience">Experience</a> #
