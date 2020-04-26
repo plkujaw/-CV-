@@ -11,26 +11,25 @@
 
 ## Background
 
-In 2019 I have decided to change my career. I wanted a job that would allow me to make a real difference to people’s lives, which would make me feel that I deliver something more than just a financial value, that with my work I make a positive impact. I believe that it is achievable through technology more than anything else. Because my recent roles were focused on or around technology, and I have always been keen on it I wanted to combine it all. That was why and how I found and joined renowned software development bootcamp – [Makers Academy](https://makers.tech).
+I’m highly motivated and positively driven career changer. In 2019 I have decided to contribute in making a positive social and environmental change. I believe that today it is possible with technology more than anything else. That is why and how I found and joined renowned software development bootcamp – [Makers Academy](https://makers.tech).
 
 ## Skills
 
-#### Adaptability
-Being able to move to live and work in the different country and fully adapt to the new reality is a great proof that I can handle any change.
+- Moving and living abroad has greatly improved my **adaptability** skill.
 
-#### Empathy
-In my previous roles it was crucial to look at projects from clients' point of view. Effective communication within all participating teams allows to understand expectations and tailor solutions to fully meet them.
+- Expectation of high-quality services and products has sharpened my **strong attention to detail**.
+
+- In my previous roles, working with different clients on different projects has made me **empathetic**.
+
+- Makers has made me familiar with **software/web development** tools (Ruby, JavaScript, HTML/CSS), programming concepts/design (OOP, Domain Modeling, MVC), processes/methodologies (TDD, pair programming, Agile teamwork).
+
+
 
 ## Education
 
-#### Makers Academy (Jan - May 2020)
-London, United Kingdom</br>
-Software Development Boot Camp
-
-- Agile, Software Craftsmanship, Teamwork
-- OOP, TDD, MVC
-- Ruby, JavaScript, PostgreSQL
-- RSpec, Jasmine, Capybara</br></br>
+#### Makers Academy (Jan - May 2020)</br>
+London, United Kingdom
+- Software Development Boot Camp
 
 #### Poznan Higher School of Logistics (2011 - 2012)</br>
 Poznan, Poland
@@ -88,7 +87,7 @@ Service Coordinator
 
 ## Hobbies and Interests
 
-- Music: Exploring new music and expanding vinyl records [collection](https://www.discogs.com/user/plkujaw/collection)
+- Music: Discovering new music and expanding vinyl records [collection](https://www.discogs.com/user/plkujaw/collection)
 - Travel: Hiking, road tripping and camping (in 2018 spent two weeks on a road trip around Mainland Britain)
 - Photography: Photos from road trip have been [featured](https://www.hireacamera.com/en-gb/blog/case-studies/customer-case-study-visiting-the-four-corners-of-the-uk-with-the-fujifilm-xe2-xf18-135mm/) on Hireacamera.com’s blog
 - Reading: "A reader lives a thousand lives." – George R. R. Martin
