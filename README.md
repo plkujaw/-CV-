@@ -29,7 +29,7 @@ I’m highly motivated and positively driven career changer. In 2019 I have deci
 
 #### Makers Academy (Jan - May 2020)</br>
 London, United Kingdom
-- Software Development Boot Camp
+- Software Development Boot Camp</br></br>
 
 #### Poznan Higher School of Logistics (2011 - 2012)</br>
 Poznan, Poland
@@ -65,12 +65,12 @@ Uxbridge College – London, United Kingdom
 #### Lewis Light & Sound (Sep 2018 - Feb 2020)</br>
 London, United Kingdom</br>
 Smart Home Engineer
-- Programming and integration of residential home automation, audio visual, network and lighting control systems</br></br>
+- Programming and integration of residential home automation, audio-visual, network and lighting control systems.</br></br>
 
 #### 1st Stop Home Technology (Mar 2018 – Sep 2018)</br>
 London, United Kingdom</br>
 On-call/Installation AV Technician
-- Providing on-call service and installation of AV systems, IP CCTV cameras and NVR’s, IP networks design, implementation and maintenance, Control4 basic programming</br></br>
+- Providing on-call service and installation of audio-visual systems, and IP networks. Control4 basic programming.</br></br>
 
 #### Knightsbridge Audio Visual (May 2017 – Feb 2018)</br>
 London, United Kingdom</br>
@@ -83,7 +83,7 @@ London, United Kingdom</br></br>
 #### Bombardier Transportation (Mar 2015 – Mar 2016)</br>
 Katowice, Poland</br>
 Service Coordinator
-- Customer service, deploying, managing and controlling technicians’ work schedule, reporting to the line manager
+- Customer service, deployment, management and control of technicians’ work schedule. Reporting to the line manager and director.
 
 ## Hobbies and Interests
 
