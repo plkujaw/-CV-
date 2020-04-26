@@ -29,7 +29,7 @@ I’m highly motivated and positively driven career changer. In 2019 I have deci
 
 #### Makers Academy (Jan - May 2020)</br>
 London, United Kingdom
-- Software Development Boot Camp</br></br>
+- Software Development Bootcamp</br></br>
 
 #### Poznan Higher School of Logistics (2011 - 2012)</br>
 Poznan, Poland
