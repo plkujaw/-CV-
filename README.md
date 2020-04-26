@@ -21,7 +21,7 @@ I’m highly motivated and positively driven career changer. In 2019 I have deci
 
 - In my previous roles, working with different clients on different projects has made me **empathetic**.
 
-- Makers has made me familiar with **software/web development** tools (Ruby, JavaScript, HTML/CSS), programming concepts/design (OOP, Domain Modeling, MVC), processes/methodologies (TDD, pair programming, Agile teamwork).
+- Makers Academy has made me familiar with **software/web development** tools (Ruby, JavaScript, HTML/CSS), programming concepts/design (OOP, Domain Modeling, MVC), processes/methodologies (TDD, pair programming, Agile teamwork).
 
 
 
