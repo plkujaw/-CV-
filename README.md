@@ -1,6 +1,7 @@
 <p align="center">
 <a href="#background">Background</a> #
 <a href="#skills">Skills</a> #
+<a href="#projects">Projects</a> #
 <a href="#education">Education</a> #
 <a href="#experience">Experience</a> #
 <a href="#hobbies-and-interests">Hobbies and Interests</a>
@@ -16,14 +17,14 @@ I’m highly motivated and positively driven career changer. In 2019 I have deci
 ## Skills
 
 - Moving and living abroad has greatly improved my **adaptability** skill.
-
 - Expectation of high-quality services and products has sharpened my **strong attention to detail**.
+- Thanks to my previous roles and opportunity to work with different clients on different projects I have become an **empathetic team player**.
+- At Makers I have learned foundations of **software/web development** – Ruby, Ruby on Rails, JavaScript; programming concepts/design – OOP, Domain Modeling, MVC; processes/methodologies – TDD, pair programming, Agile; tools – GitHub, Heroku, Travis CI.
 
-- In my previous roles, working with different clients on different projects has made me **empathetic**.
+## Projects
 
-- Makers Academy has made me familiar with **software/web development** tools (Ruby, JavaScript, HTML/CSS), programming concepts/design (OOP, Domain Modeling, MVC), processes/methodologies (TDD, pair programming, Agile teamwork).
-
-
+- [Rock, Paper, Scissors game](https://github.com/plkujaw/rps-challenge)
+  - Ruby, Sinatra, Capybara, RSpec, HTML/CSS
 
 ## Education
 
@@ -96,6 +97,7 @@ Service Coordinator
 <p align="center">
 <a href="#background">Background</a> #
 <a href="#skills">Skills</a> #
+<a href="#projects">Projects</a> #
 <a href="#education">Education</a> #
 <a href="#experience">Experience</a> #
 <a href="#hobbies-and-interests">Hobbies and Interests</a>
