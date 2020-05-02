@@ -12,7 +12,7 @@
 
 ## Background
 
-I'm highly motivated and positively driven career changer. In 2019 I have decided to put my own contribution in making a positive impact on the world. I believe that today it is more possible with technology than anything else. That is why and how I have found and joined renowned software development bootcamp – [Makers Academy](https://makers.tech).
+I'm highly motivated and positively driven career changer. In 2019 I have decided to contribute in making a positive impact on the world. I believe that today it is more possible with technology than anything else. That is why and how I have found and joined renowned software development bootcamp – [Makers Academy](https://makers.tech).
 
 ## Skills
 
@@ -88,10 +88,9 @@ Service Coordinator
 
 ## Hobbies and Interests
 
-- Music: Discovering new music and expanding vinyl records [collection](https://www.discogs.com/user/plkujaw/collection)
-- Travel: Hiking, road tripping and camping (in 2018 spent two weeks on a road trip around Mainland Britain)
-- Photography: Photos from road trip have been [featured](https://www.hireacamera.com/en-gb/blog/case-studies/customer-case-study-visiting-the-four-corners-of-the-uk-with-the-fujifilm-xe2-xf18-135mm/) on Hireacamera.com’s blog
-- Reading: "A reader lives a thousand lives." – George R. R. Martin
+In free time I discover new music and expand my vinyl records [collection](https://www.discogs.com/user/plkujaw/collection).
+Since "A reader lives a thousand lives", if not listening to any LPs, I spend time reading.
+When outdoors I feed my curiosity and explorer’s element during hikes, road trips and camping. I record them on digital and analogue [photographs](https://www.hireacamera.com/en-gb/blog/case-studies/customer-case-study-visiting-the-four-corners-of-the-uk-with-the-fujifilm-xe2-xf18-135mm/).
 </br>
 </br>
 <p align="center">
