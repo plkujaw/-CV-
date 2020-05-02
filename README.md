@@ -12,7 +12,7 @@
 
 ## Background
 
-I’m highly motivated and positively driven career changer. In 2019 I have decided to contribute in making a positive social and environmental change. I believe that today it is possible with technology more than anything else. That is why and how I found and joined renowned software development bootcamp – [Makers Academy](https://makers.tech).
+I'm highly motivated and positively driven career changer. In 2019 I have decided to put my own contribution in making a positive impact on the world. I believe that today it is more possible with technology than anything else. That is why and how I have found and joined renowned software development bootcamp – [Makers Academy](https://makers.tech).
 
 ## Skills
 
