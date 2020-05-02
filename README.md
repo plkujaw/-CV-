@@ -19,7 +19,7 @@ I'm highly motivated and positively driven career changer. In 2019 I have decide
 - Moving and living abroad has greatly improved my **adaptability** skill.
 - Expectation of high-quality services and products has sharpened my **strong attention to detail**.
 - Thanks to my previous roles and opportunity to work with different clients on different projects I have become an **empathetic team player**.
-- At Makers I have learned foundations of **software/web development** – Ruby, Ruby on Rails, JavaScript; programming concepts/design – OOP, Domain Modeling, MVC; processes/methodologies – TDD, pair programming, Agile; tools – GitHub, Heroku, Travis CI.
+- At Makers I have learned fundamental **software/web development** skills – Ruby, Ruby on Rails, JavaScript; programming concepts/design – OOP, Domain Modeling, MVC; processes/methodologies – TDD, pair programming, Agile; tools – GitHub, Heroku, Travis CI.
 
 ## Projects
 
