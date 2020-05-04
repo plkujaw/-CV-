@@ -28,7 +28,7 @@ I'm highly motivated and positively driven career changer. In 2019 I have decide
 
 ## Education
 
-#### Makers Academy](https://makers.tech) (Jan - May 2020)</br>
+#### [Makers Academy](https://makers.tech) (Jan - May 2020)</br>
 London, United Kingdom
 - Software Development Bootcamp</br></br>
 
