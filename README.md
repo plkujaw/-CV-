@@ -12,14 +12,14 @@
 
 ## Background
 
-I'm highly motivated and positively driven career changer. In 2019 I have decided to learn how to create something meaningful and contribute in making a positive impact on the world. I believe that today it is more possible with technology than anything else. That is why and how I have found and joined renowned software development bootcamp – [Makers Academy](https://makers.tech).
+I'm highly motivated and positively driven career changer. In 2019 I have decided to learn how to create something meaningful and contribute in making a positive impact on the world. I believe that today it is more possible with technology than anything else.
 
 ## Skills
 
 - Moving and living abroad has greatly improved my **adaptability** skill.
 - Expectation of high-quality services and products has sharpened my **strong attention to detail**.
 - Thanks to my previous roles and opportunity to work with different clients on different projects I have become an **empathetic team player**.
-- At Makers I have learned fundamental **software/web development** skills – Ruby, Ruby on Rails, JavaScript; programming concepts/design – OOP, Domain Modeling, MVC; processes/methodologies – TDD, pair programming, Agile; tools – GitHub, Heroku, Travis CI.
+- At [Makers](https://makers.tech) I have learned fundamental **software/web development** skills – Ruby, Ruby on Rails, JavaScript; programming concepts/design – OOP, Domain Modeling, MVC; processes/methodologies – TDD, pair programming, Agile; tools – GitHub, Heroku, Travis CI.
 
 ## Projects
 
@@ -28,7 +28,7 @@ I'm highly motivated and positively driven career changer. In 2019 I have decide
 
 ## Education
 
-#### Makers Academy (Jan - May 2020)</br>
+#### Makers Academy](https://makers.tech) (Jan - May 2020)</br>
 London, United Kingdom
 - Software Development Bootcamp</br></br>
 
