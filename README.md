@@ -12,7 +12,7 @@
 
 ## Background
 
-I'm highly motivated and positively driven career changer. In 2019 I have decided to learn how to create something meaningful and contribute in making a positive impact on the world. I believe that today it is more possible with technology than anything else.
+In 2019 I have decided to change my career. I wanted a job that would allow me to make a real difference to people’s lives, which would make me feel that I deliver something meaningful, that with my work I make a positive impact. I believe that it is achievable through technology more than anything else. Because my recent roles were focused on or around technology, and I have always been keen on it I wanted to combine it all. That is why and how I found and joined renowned software development bootcamp – [Makers Academy](https://makers.tech).
 
 ## Skills
 
@@ -25,7 +25,7 @@ I'm highly motivated and positively driven career changer. In 2019 I have decide
 
 - [Rock, Paper, Scissors game](https://github.com/plkujaw/rps-challenge)
   - Ruby, Sinatra, Capybara, RSpec, HTML/CSS
-- Makers Final group project [Community Video 2020](https://github.com/jamesoddy8/co-vid20-20)
+- [Community Video 2020](https://github.com/jamesoddy8/co-vid20-20) Makers Final group project 
   - Ruby on Rails, JavaScript, PostgreSQL, RSpec, HTML/CSS 
 
 ## Education
