@@ -32,7 +32,7 @@ In 2019 I have decided to change my career. I wanted a job that would make me fe
 
 #### [Makers Academy](https://makers.tech) (Jan - May 2020)</br>
 London, United Kingdom
-- 12-week full-time software engineering training course</br></br>
+- 16-week full-time Software Engineering training course</br></br>
 
 #### Poznan Higher School of Logistics (2011 - 2012)</br>
 Poznan, Poland
