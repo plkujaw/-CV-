@@ -1,9 +1,9 @@
 <p align="center">
-<a href="#background">Background</a> #
-<a href="#skills">Skills</a> #
-<a href="#projects">Projects</a> #
-<a href="#education">Education</a> #
-<a href="#experience">Experience</a> #
+<a href="#background">Background</a> |
+<a href="#skills">Skills</a> |
+<a href="#projects">Projects</a> |
+<a href="#education">Education</a> |
+<a href="#experience">Experience</a> |
 <a href="#hobbies-and-interests">Hobbies and Interests</a>
 </p>
 </br>
@@ -25,14 +25,14 @@ In 2019 I have decided to change my career. I wanted a job that would make me fe
 
 - [Rock, Paper, Scissors game](https://github.com/plkujaw/rps-challenge)
   - Ruby, Sinatra, Capybara, RSpec, HTML/CSS
-- [Community Video 2020](https://github.com/jamesoddy8/co-vid20-20) Makers Final team project 
+- [Community Video 2020](https://github.com/plkujaw/co-vid20-20) Makers Final team project 
   - Ruby on Rails, JavaScript, PostgreSQL, RSpec, HTML/CSS 
 
 ## Education
 
 #### [Makers Academy](https://makers.tech) (Jan - May 2020)</br>
 London, United Kingdom
-- Software Development Bootcamp</br></br>
+- 12-week full-time software engineering training course</br></br>
 
 #### Poznan Higher School of Logistics (2011 - 2012)</br>
 Poznan, Poland
@@ -96,10 +96,10 @@ When outdoors I feed my curiosity and explorer’s element during hikes, road tr
 </br>
 </br>
 <p align="center">
-<a href="#background">Background</a> #
-<a href="#skills">Skills</a> #
-<a href="#projects">Projects</a> #
-<a href="#education">Education</a> #
-<a href="#experience">Experience</a> #
+<a href="#background">Background</a> |
+<a href="#skills">Skills</a> |
+<a href="#projects">Projects</a> |
+<a href="#education">Education</a> |
+<a href="#experience">Experience</a> |
 <a href="#hobbies-and-interests">Hobbies and Interests</a>
 </p>
