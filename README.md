@@ -25,6 +25,10 @@ In 2019 I have decided to change my career. I wanted a job that would make me fe
 
 - [Rock, Paper, Scissors game](https://github.com/plkujaw/rps-challenge)
   - Ruby, Sinatra, Capybara, RSpec, HTML/CSS
+  
+- [Bank Tech Test](https://github.com/plkujaw/bank-tech-test)
+  - Ruby, RSpec
+  
 - [Community Video 2020](https://github.com/plkujaw/co-vid20-20) Makers Final team project 
   - Ruby on Rails, JavaScript, PostgreSQL, RSpec, HTML/CSS 
 
