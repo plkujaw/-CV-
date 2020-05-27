@@ -12,7 +12,7 @@
 
 ## Background
 
-In 2019 I've decided to change my career. I wanted to feel that I'm a part of something meaningful, that with my work I make a positive impact on the world. Considering myself as a caring, mindful and environmentally-conscious person who has always been keen on technology has put me naturally on a path to follow 'tech for good' ethos. With programming's virtually unlimited possibilities I've decided to make a transition into coding. This is why and how I've become an alumn of the renowned software development boot camp – [Makers Academy](https://makers.tech).
+In 2019 I've decided to change my career. I wanted to feel that I'm a part of something meaningful, that with my work I make a positive impact on the world. Considering myself as a caring, mindful and environmentally-conscious person who has always been keen on technology has put me naturally on a path to follow '**tech for good**' ethos. With programming's virtually unlimited possibilities I've decided to make a transition into coding. This is why and how I've become an alumn of the renowned software development boot camp – [Makers Academy](https://makers.tech).
 
 ## Skills
 
