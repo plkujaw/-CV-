@@ -23,8 +23,8 @@ In 2019 I have decided to change my career. I wanted a job that would make me fe
 
 ## Projects
 
-- [Community Video 2020](https://github.com/plkujaw/co-vid20-20) Makers Final team project 
-  - Ruby on Rails, JavaScript, PostgreSQL, RSpec, HTML/CSS 
+- [Community Video](https://github.com/plkujaw/co-vid20-20) Makers Final team project ([demo video](https://youtu.be/xNpah5xL_l0?t=2597))
+  - Ruby on Rails, JavaScript, PostgreSQL, PayPal API, RSpec, HTML/CSS 
   
 - [Rock, Paper, Scissors](https://github.com/plkujaw/rps-challenge)
   - Ruby, Sinatra, Capybara, RSpec, HTML/CSS
