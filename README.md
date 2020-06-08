@@ -24,13 +24,17 @@ In 2019 I've decided to change my career. I wanted to feel that I'm a part of so
 ## Projects
 
 - [Community Video](https://github.com/plkujaw/co-vid20-20) Makers Final team project ([demo video](https://youtu.be/xNpah5xL_l0?t=2597))
-  - Ruby on Rails, JavaScript, PostgreSQL, PayPal API, RSpec, HTML/CSS 
+  - Platform where users can upload videos sharing their skills. It was inspired by the CoVid19 outbreak where most of the world had to respect social distancing and have most of their lives occur in the online world. The goal was to allow community members to be able to learn new skills during the time of lockdown and support each other.
+  - Tech stack: Ruby on Rails, PostgreSQL, PayPal API, JavaScript, CSS, RSpec, Capybara. 
   
 - [Rock, Paper, Scissors](https://github.com/plkujaw/rps-challenge)
-  - Ruby, Sinatra, Capybara, RSpec, HTML/CSS
+  - Classic rock, paper, scissors game developed following TDD principles.
+  - Tech stack: Ruby, Sinatra, CSS, RSpec, Capybara.
   
-- [Bank Tech Test](https://github.com/plkujaw/bank-tech-test)
-  - Ruby, RSpec
+- [colour flipper](https://github.com/plkujaw/js-colour-flipper)
+  - Background colour generator and flipper written in Vanilla JavaScript.
+  - Tech stack: Vanilla JavaScript, HTML, CSS.
+
   
 ## Education
 
