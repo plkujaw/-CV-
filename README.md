@@ -1,11 +1,13 @@
+<p align="center"><a href="https://linkedin.com/in/kubajawor" target="_blank" rel="norefferer"><img align="center" src="/files/linkedin.png" alt="linkedin" width="24px"></a><a href="https://kubajawor.dev" target="_blank" rel="norefferer"><img src="/files/www.png" alt="alt text" width="24px" style="margin-left: 20px"></a><a href="https://twitter.com/plkujaw" target="_blank" rel="norefferer"><img src="/files/twitter.png" alt="alt text" width="24px" style="margin-left: 20px"></a>
+</p>
 <p align="center">
-</br>
 <a href="#background">Background</a> |
 <a href="#skills">Skills</a> |
 <a href="#projects">Projects</a> |
 <a href="#education">Education</a> |
 <a href="#experience">Experience</a> |
 <a href="#hobbies-and-interests">Hobbies and Interests</a>
+
 </p>
 </br>
 
