@@ -1,4 +1,5 @@
-<p align="center"><a href="https://linkedin.com/in/kubajawor" target="_blank" rel="norefferer"><img align="center" src="/files/linkedin.png" alt="linkedin" width="24px"></a><a href="https://kubajawor.dev" target="_blank" rel="norefferer"><img src="/files/www.png" alt="alt text" width="24px" style="margin-left: 20px"></a><a href="https://twitter.com/plkujaw" target="_blank" rel="norefferer"><img src="/files/twitter.png" alt="alt text" width="24px" style="margin-left: 20px"></a>
+<p align="center">
+<a href="https://linkedin.com/in/kubajawor" target="_blank" rel="norefferer"><img src="/files/linkedin.png" alt="linkedin" width="24px"></a> <a href="https://kubajawor.dev" target="_blank" rel="norefferer"><img src="/files/www.png" alt="www" width="24px"></a> <a href="https://twitter.com/plkujaw" target="_blank" rel="norefferer"><img src="/files/twitter.png" alt="twitter" width="24px"></a>
 </p>
 <p align="center">
 <a href="#background">Background</a> |
