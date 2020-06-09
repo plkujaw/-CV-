@@ -111,6 +111,7 @@ Junior AV Technician</br></br>
 #### Self-employed (Apr 2016 – May 2017)</br>
 
 London, United Kingdom</br></br>
+- Worked independently as an individual contractor installing and improving electrical installations for clients on a paid basis.
 
 #### Bombardier Transportation (Mar 2015 – Mar 2016)</br>
 
