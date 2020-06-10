@@ -31,6 +31,11 @@ In 2019 I've decided to change my career. I wanted to feel that I'm a part of so
 
     -   Platform where users can upload videos sharing their skills. It was inspired by the CoVid19 outbreak where most of the world had to respect social distancing and have most of their lives occur in the online world. The goal was to allow community members to be able to learn new skills during the time of lockdown and support each other.
     -   Tech stack: Ruby on Rails, PostgreSQL, PayPal API, JavaScript, CSS, RSpec, Capybara.
+    
+- [Corona Run Game](https://github.com/plkujaw/hfh_corona_game) Hackathon Project #hackforheroes
+
+  - Project build for #hackforheroes, a two days and a half hackathon organized by Makers. The main theme was developing an app inspired by the Covid-19 crisis.
+  - Tech stack: JavaScritpt, p5.js.
 
 -   [Rock, Paper, Scissors](https://github.com/plkujaw/rps-challenge)
 
