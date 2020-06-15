@@ -33,9 +33,9 @@ Excited to start building a solid, beautiful, user-focused and meaningful applic
     -   Platform where users can upload videos sharing their skills. It was inspired by the CoVid19 outbreak where most of the world had to respect social distancing and have most of their lives occur in the online world. The goal was to allow community members to be able to learn new skills during the time of lockdown and support each other.
     -   Tech stack: Ruby on Rails, PostgreSQL, PayPal API, JavaScript, CSS, RSpec, Capybara.
     
-- [corona run game](https://github.com/plkujaw/hfh_corona_game) Hackathon Project #hackforheroes
+- [corona run game](https://github.com/plkujaw/hfh_corona_game) Hackathon Project [#hackforheroes](https://twitter.com/hashtag/hackforheroes)
 
-  - Project build for #hackforheroes, a two days and a half hackathon organized by Makers. The main theme was developing an app inspired by the Covid-19 crisis.
+  - Project build for [#hackforheroes](https://twitter.com/hashtag/hackforheroes), a two days and a half hackathon organized by Makers. The main theme was developing an app inspired by the Covid-19 crisis.
   - Tech stack: JavaScritpt, p5.js.
 
 -   [rock, paper, scissors](https://github.com/plkujaw/rps-challenge)
