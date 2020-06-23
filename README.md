@@ -39,13 +39,17 @@ Excited to start building a solid, beautiful, user-focused and meaningful applic
   - Tech stack: JavaScritpt, p5.js.
 
 -   [rock, paper, scissors](https://github.com/plkujaw/rps-challenge)
-
     -   Classic rock, paper, scissors game developed following TDD principles.
     -   Tech stack: Ruby, Sinatra, CSS, RSpec, Capybara.
 
 -   [colour flipper](https://github.com/plkujaw/js-colour-flipper)
     -   Background colour generator and flipper written in Vanilla JavaScript.
     -   Tech stack: Vanilla JavaScript, HTML, CSS.
+    
+- [palindrome detector](https://github.com/plkujaw/js-palindrome-detector)
+    - Check if the given phrase is a palindrome
+    - Tech stack: Vanilla JavaScript, Mocha, HTML, CSS.
+    
 
 ## Education
 
