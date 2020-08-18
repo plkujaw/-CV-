@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://linkedin.com/in/kubajawor" target="_blank" rel="norefferer"><img src="/files/linkedin.png" alt="linkedin" width="24px"></a> <a href="https://kubajawor.dev" target="_blank" rel="norefferer"><img src="/files/www.png" alt="www" width="24px"></a> <a href="https://twitter.com/plkujaw" target="_blank" rel="norefferer"><img src="/files/twitter.png" alt="twitter" width="24px"></a>
+<a href="https://linkedin.com/in/kubajawor" target="_blank" rel="norefferer"><img src="https://github.com/plkujaw/plkujaw/blob/master/linkedin-icon.png" alt="linkedin" width="24px"></a> <a href="https://kubajawor.dev" target="_blank" rel="norefferer"><img src="https://github.com/plkujaw/plkujaw/blob/master/www-icon.png" alt="www" width="24px"></a> <a href="https://twitter.com/plkujaw" target="_blank" rel="norefferer"><img src="https://github.com/plkujaw/plkujaw/blob/master/tw-icon.png" alt="twitter" width="24px"></a>
 </p>
 <p align="center">
-<a href="#background">Background</a> |
+<a href="#about">About</a> |
 <a href="#skills">Skills</a> |
 <a href="#projects">Projects</a> |
 <a href="#education">Education</a> |
@@ -14,32 +14,49 @@
 
 # Kuba Jawor
 
-## Background
+## About
 
-In 2019 I've decided to change my career. I wanted to feel that I'm a part of something meaningful, that with my work I make a positive impact on the world. Considering myself as a caring, mindful and environmentally-conscious person who has always been keen on technology has put me naturally on a path to follow '**tech for good**' ethos. With programming's virtually unlimited possibilities I've decided to make a transition into coding. This is why and how I've become an alumn of the renowned software development boot camp – [Makers Academy](https://makers.tech).
+Enthusiastic and positively driven recent career changer turned into software/web developer.
+Excited to start building a solid, beautiful, user-focused and meaningful applications using the latest digital tech.
 
 ## Skills
 
 -   Moving and living abroad has greatly improved my **adaptability** skill.
 -   Expectation of high-quality services and products has sharpened my **strong attention to detail**.
 -   Thanks to my previous roles and opportunity to work with different clients on different projects I have become an **empathetic team player**.
--   At [Makers](https://makers.tech) I have got familiar with foundations of **software/web development** – Ruby, Ruby on Rails, JavaScript; programming concepts/design – OOP, Domain Modeling, MVC; processes/methodologies – TDD, pair programming, Agile; tools – GitHub, Heroku, Travis CI.
+-   At [Makers](https://makers.tech) I have got familiar with foundations of **software/web development** – Ruby, Ruby on Rails, JavaScript; programming **concepts/design** – OOP, Domain Modeling, MVC; **processes/methodologies** – TDD, pair programming, Agile; **tools** – GitHub, Heroku, Travis CI.
 
 ## Projects
 
--   [Community Video](https://github.com/plkujaw/co-vid20-20) Makers Final team project ([demo video](https://youtu.be/xNpah5xL_l0?t=2597))
+-   [community video](https://github.com/plkujaw/co-vid20-20)
 
+    -   Makers Final team project ([demo video](https://youtu.be/xNpah5xL_l0?t=2597))
     -   Platform where users can upload videos sharing their skills. It was inspired by the CoVid19 outbreak where most of the world had to respect social distancing and have most of their lives occur in the online world. The goal was to allow community members to be able to learn new skills during the time of lockdown and support each other.
     -   Tech stack: Ruby on Rails, PostgreSQL, PayPal API, JavaScript, CSS, RSpec, Capybara.
 
--   [Rock, Paper, Scissors](https://github.com/plkujaw/rps-challenge)
+-   [corona run game](https://github.com/plkujaw/hfh_corona_game)
+
+    -   Project build for [#hackforheroes](https://twitter.com/hashtag/hackforheroes), a two days and a half hackathon organized by Makers. The main theme was developing an app inspired by the Covid-19 crisis.
+    -   Tech stack: JavaScript, p5.js.
+
+-   [rock, paper, scissors](https://github.com/plkujaw/rps-challenge)
 
     -   Classic rock, paper, scissors game developed following TDD principles.
     -   Tech stack: Ruby, Sinatra, CSS, RSpec, Capybara.
 
 -   [colour flipper](https://github.com/plkujaw/js-colour-flipper)
+
     -   Background colour generator and flipper written in Vanilla JavaScript.
     -   Tech stack: Vanilla JavaScript, HTML, CSS.
+
+-   [palindrome detector](https://github.com/plkujaw/js-palindrome-detector)
+    -   Check if the given phrase is a palindrome.
+    -   Tech stack: Vanilla JavaScript, Mocha, HTML, CSS.
+    
+-   [big city](https://plkujaw.github.io/bigcity)
+    -   HTML/CSS exercise - to create a website based only on a Photoshop layout.
+    -   Tech stack: HTML, CSS.
+   
 
 ## Education
 
@@ -112,6 +129,8 @@ Junior AV Technician</br></br>
 
 London, United Kingdom</br></br>
 
+-   Worked independently as an individual contractor installing and improving electrical installations for clients on a paid basis.
+
 #### Bombardier Transportation (Mar 2015 – Mar 2016)</br>
 
 Katowice, Poland</br>
@@ -128,7 +147,7 @@ When outdoors I feed my curiosity and explorer’s element during hikes, road tr
 </br>
 
 <p align="center">
-<a href="#background">Background</a> |
+<a href="#about">About</a> |
 <a href="#skills">Skills</a> |
 <a href="#projects">Projects</a> |
 <a href="#education">Education</a> |
