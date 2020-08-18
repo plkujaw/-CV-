@@ -92,7 +92,7 @@ Uxbridge College – London, United Kingdom
 #### Lewis Light & Sound (Sep 2018 - Feb 2020)</br>
 
 London, United Kingdom</br>
-Smart Home Engineer
+Home Automation Engineer
 
 -   Programming and integration of residential home automation, audio-visual, network and lighting control systems.</br></br>
 
