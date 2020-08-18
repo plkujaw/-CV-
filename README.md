@@ -53,7 +53,8 @@ Excited to start building a solid, beautiful, user-focused and meaningful applic
     -   Check if the given phrase is a palindrome.
     -   Tech stack: Vanilla JavaScript, Mocha, HTML, CSS.
     
--   [big city](https://plkujaw.github.io/bigcity)
+    
+-   [big city](https://github.com/plkujaw/bigcity)
     -   HTML/CSS exercise - to create a website based only on a Photoshop layout.
     -   Tech stack: HTML, CSS.
    
@@ -123,11 +124,13 @@ On-call/Installation AV Technician
 #### Knightsbridge Audio Visual (May 2017 – Feb 2018)</br>
 
 London, United Kingdom</br>
-Junior AV Technician</br></br>
+Junior AV Technician
+
+-  Cable termination and testing, AV mequipment installation and configuration. </br></br>
 
 #### Self-employed (Apr 2016 – May 2017)</br>
 
-London, United Kingdom</br></br>
+London, United Kingdom
 
 -   Worked independently as an individual contractor installing and improving electrical installations for clients on a paid basis.
 
