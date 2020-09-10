@@ -65,7 +65,7 @@ London, United Kingdom
 -   Professional Course: Smart Home Installation
 
 ## Projects
--   [big city](https://github.com/plkujaw/bigcity) (work in progress)
+-   [big city](https://github.com/plkujaw/bigcity) *(work in progress)*
     -   Create a functional website based only on a Photoshop design/layout.
     -   Tech stack: HTML, CSS, JavaScript, Jest.
     
