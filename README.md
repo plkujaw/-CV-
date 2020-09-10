@@ -72,19 +72,19 @@ London, United Kingdom
     
 -   [palindrome detector](https://github.com/plkujaw/js-palindrome-detector)
     -   Check if the given phrase is a palindrome.
-    -   Tech stack: Vanilla JavaScript, Mocha, HTML, CSS.
+    -   Tech stack: HTML, CSS, JavaScript, Mocha.
     
     
 -   [colour flipper](https://github.com/plkujaw/js-colour-flipper)
 
     -   Background colour generator and flipper written in Vanilla JavaScript.
-    -   Tech stack: Vanilla JavaScript, HTML, CSS.
+    -   Tech stack: HTML, CSS, JavaScript.
     
     
 -   [corona run game](https://github.com/plkujaw/hfh_corona_game)
 
     -   Project build for [#hackforheroes](https://twitter.com/hashtag/hackforheroes), a two days and a half hackathon organized by Makers. The main theme was developing an app inspired by the Covid-19 crisis.
-    -   Tech stack: JavaScript, p5.js.
+    -   Tech stack: JavaScript, p5.js, CSS.
 
     
 -   [community video](https://github.com/plkujaw/co-vid20-20)
