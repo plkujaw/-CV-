@@ -106,7 +106,7 @@ London, United Kingdom
 London, United Kingdom
 
 -   16-week full-time Software Engineering training course during which I successfully worked in an agile team environment.</br>
-I used my **communication and teamwork** skills to pair and collaborate effectively in high-pressure scenarios using **Ruby, JavaScript, HTML, CSS** programming languages and software development **best practices**. 
+I used my **communication and teamwork** skills to pair and collaborate effectively in high-pressure scenarios using **JavaScript, HTML, CSS, Ruby** programming languages and software development **best practices**. 
 
 #### Poznan Higher School of Logistics (2011 - 2012)</br>
 Poznan, Poland
