@@ -120,7 +120,7 @@ Cracow, Poland
 -   Master of Science: Transport Management and Logistics
     (Considered comparable to British Master’s Degree standard)</br></br>
 
-#### The complex of Electronic and Information Technology Schools (2001 - 2006)</br>
+#### The Complex of Electronic and Information Technology Schools (2001 - 2006)</br>
 Sosnowiec, Poland
 
 -   High School Diploma: Computer Systems and Networks
