@@ -66,7 +66,7 @@ London, United Kingdom
 
 ## Projects
 -   [big city](https://github.com/plkujaw/bigcity) *(work in progress)*
-    -   Create a functioning website based only on a Photoshop design/layout.
+    -   Create a functioning, responsive website based only on a Photoshop design/layout.
     -   Tech stack: HTML, CSS, JavaScript, Jest.
     
     
