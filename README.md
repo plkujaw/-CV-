@@ -25,7 +25,7 @@ London, UK
 
 
 Progressed from Junior AV Technician to Home Automation Engineer. To be able to achieve it, I:</br>
-- Implemented **fast-learning skills** to acquire the required skills and knowledge.
+- Implemented **fast-learning** to acquire the required skills and knowledge.
 - Applied **empathy** in a process of designing, configuring and programming to ensure user's seamless experience.
 - Employed teamwork and organisational skills to coordinate the work of the team on different projects simultaneously.
 - Utilized **strong attention to detail** to provide installation of home automation systems with the highest quality.
