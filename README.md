@@ -131,7 +131,7 @@ Sosnowiec, Poland
 
 In free time I discover new music and expand my vinyl records [collection](https://www.discogs.com/user/plkujaw/collection).
 Since <em>"A reader lives a thousand lives"</em>, if not listening to any LPs, I spend time reading.
-When outdoors I feed my curiosity and explorer’s element during hikes, road trips and camping. I record them on digital and analogue [photographs](https://www.hireacamera.com/en-gb/blog/case-studies/customer-case-study-visiting-the-four-corners-of-the-uk-with-the-fujifilm-xe2-xf18-135mm/).
+When outdoors I feed my curiosity and explorer’s element during hikes, road trips and camping. I capture them on digital and analogue [photographs](https://www.hireacamera.com/en-gb/blog/case-studies/customer-case-study-visiting-the-four-corners-of-the-uk-with-the-fujifilm-xe2-xf18-135mm/).
 </br>
 </br>
 
